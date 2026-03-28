@@ -60,8 +60,12 @@ Alta
 ## 📱 Ambiente
 - Dispositivo: Samsung Galaxy A17 5G
 - Sistema operativo: Android 16
-- Versión app: X.X.X
+- Versión app: Mercado Libre para Android versión 10.519.1
 
 
+---
 
+## 📎 Evidencia
+- Video: samsung-a17-test.mp4
+- Screenshots (opcional)
 
