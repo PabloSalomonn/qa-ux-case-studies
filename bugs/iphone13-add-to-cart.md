@@ -20,4 +20,4 @@ Media
 
 ## Ambiente
 - Dispositivo: iPhone 13
-- OS: iOS XX
+- OS: iOS 26.3.1
